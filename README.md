@@ -7,7 +7,7 @@ DIGITAL VERSION - https://app.rs.school/certificate/2dtu4yir
 
 Learned Technologies: **HTML, CSS, JavaScript, TypeScript, React, Git**
 
-# [Программа обучения Stage#1 15.03 - 06.06](https://github.com/whityha/The-Rolling-Scopes-School-Course/tree/Stage1/ "Программа Stage1")
+# [Программа обучения Stage#1 15.03 - 06.06](https://github.com/AlexeiKozovski/Rolling-Scopes-School-course/tree/stage1/ "Программа Stage1")
   [![codewars](https://www.codewars.com/users/AlexeiKozovski/badges/large)](https://www.codewars.com/users/AlexeiKozovski) 
   ## Projects:
   
@@ -68,3 +68,21 @@ Learned Technologies: **HTML, CSS, JavaScript, TypeScript, React, Git**
     150/150
 
     </details>
+    
+  - ### HTML-Builder  
+    _Задание по работе с **NodeJS**. Работа с асинхронным кодом_  
+    **Stack**: JavaScript, NodeJS  
+    
+    - [Task](https://github.com/rolling-scopes-school/tasks/tree/master/stage1/modules/html-builder/)
+    - [Solution](https://github.com/AlexeiKozovski/HTML-builder)
+    </br>
+    <details>
+      <summary markdown="span">Оценка поcле Cross-check</summary>  
+      
+    150/150
+
+    </details>
+  - ### Self-introduction
+    _Short movie about me_
+    
+    - [Task](https://github.com/rolling-scopes-school/tasks/tree/master/stage1/modules/self-introduction/)   
